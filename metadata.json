@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BharatGuide11",
+  "description": "A premium, AI-powered virtual tour guide for Indian tourism featuring interactive maps, local discovery, and a multilingual historian companion named Arjun.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
